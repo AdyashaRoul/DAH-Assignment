@@ -1,0 +1,3 @@
+MapReduce process a lots of data 
+A sigle machine cannnot serve all the data
+You need MapReduce to store and process data 
